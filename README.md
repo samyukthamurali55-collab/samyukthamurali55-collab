@@ -36,10 +36,6 @@ Currently learning and building new projects.
 *B.E. Artificial Intelligence and Machine Learning*  
 AVS Engineering College
 
-## 📜 Experience
-
-- Machine Learning Internship
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/samyuktha-murali-aa6806386
